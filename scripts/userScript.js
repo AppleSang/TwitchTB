@@ -17,10 +17,3 @@ document.addEventListener('back', (event) => {
     window.history.back();
   }
 });
-
-//BetterTTV emotes
-import BetterTTV from "betterttv";
-
-BetterTTV.getGlobalEmotes()
-    .then(console.log);
-// Returns Emote[],
