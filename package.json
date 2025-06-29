@@ -1,8 +1,8 @@
 {
-  "name": "@owen-the-kid/twitchtb",
+  "name": "@AppleSang/TwitchTB",
   "appName": "TwitchTB",
-  "version": "1.1.6",
-  "description": "Twitch app with adblocker",
+  "version": "1.0.0",
+  "description": "Bring Twitch On SamsungTV ",
   "packageType": "mods",
   "websiteURL": "https://hisense.tv.twitch.tv",
   "main": "scripts/userScript.js",
@@ -18,7 +18,7 @@
     "MediaTrackPrevious"
   ],
   "repository": {
-    "url": "https://github.com/owen-the-kid/TwitchTB"
+    "url": "https://github.com/AppleSang/TwitchTB"
   },
   "license": "GPL-3.0-only"
 }
